@@ -1,4 +1,4 @@
-package ru.volkov.batch.error.restart;
+package ru.volkov.batch.restart;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;

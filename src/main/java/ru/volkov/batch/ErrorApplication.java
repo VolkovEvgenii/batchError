@@ -1,4 +1,4 @@
-package ru.volkov.batch.error;
+package ru.volkov.batch;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;

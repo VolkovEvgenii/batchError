@@ -1,4 +1,4 @@
-package ru.volkov.batch.error;
+package ru.volkov.batch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
